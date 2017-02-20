@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="af09bbe1-14b1-424b-bd8b-32edc0c73947" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result/sharpSpec/衰减系数增大/test06.bmp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/result/sharpSpec/衰减系数增大/test06.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Raytracer/raytracer/Light.class" afterPath="$PROJECT_DIR$/out/production/Raytracer/raytracer/Light.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test06.bmp" afterPath="$PROJECT_DIR$/test06.bmp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/raytracer/Light.java" afterPath="$PROJECT_DIR$/src/raytracer/Light.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test06.txt" afterPath="$PROJECT_DIR$/test06.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -659,12 +653,20 @@
       <updated>1487564227733</updated>
       <workItem from="1487564230527" duration="13028000" />
       <workItem from="1487607205549" duration="3883000" />
-      <workItem from="1487624636072" duration="16000" />
+      <workItem from="1487624636072" duration="95000" />
     </task>
+    <task id="LOCAL-00001" summary="project3&#10;">
+      <created>1487624677128</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1487624677128</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16927000" />
+    <option name="totallyTimeSpent" value="17006000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
@@ -706,6 +708,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project3&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="project3&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -874,6 +880,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1018,6 +1027,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="9" column="22" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -65,7 +65,8 @@ public class Light {
 		float blue = intensity[2] * attenuationFactor * (shapeColor[2] * diffuseStrength + specularStrength);
 
 //		Log.debug("  final color   = (" + red + ", " + green + ", " + blue + ")");
-
+		if(hit.normal.dot(lightRay.direction)/(hit.normal.magnitude()*lightRay.direction.magnitude())<0.2)
+			return new Color(ColorUtil.clamp(0.0F), ColorUtil.clamp(0.0F), ColorUtil.clamp(1.0F));
 		return new Color(ColorUtil.clamp(red), ColorUtil.clamp(green), ColorUtil.clamp(blue));
 	}
 }
